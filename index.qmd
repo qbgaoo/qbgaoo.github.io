@@ -1,7 +1,5 @@
 ---
-title: "QQ"
+title: "Qing-Bin Gao"
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Hi! I’m Qing-Bin Gao. I’m from China and I currently live in Shanghai.
