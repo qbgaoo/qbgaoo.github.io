@@ -9,7 +9,7 @@ on:
     # run every day at 11 PM
     - cron: '0 23 * * *'
 
-name: Render and deploy Book to Github
+name: Render and deploy a website
 
 jobs:
   build-deploy:
