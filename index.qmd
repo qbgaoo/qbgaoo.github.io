@@ -2,6 +2,6 @@
 
 This is my website.
 
-Some R books :
+Some books :
 
 -   [R 数据科学 (第二版)](https://qbgaoo.github.io/r4ds/)
