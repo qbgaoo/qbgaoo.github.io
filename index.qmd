@@ -2,6 +2,7 @@
 
 This is my website.
 
-Some books :
+Some books I have read:
 
--   [R 数据科学 (第二版)](https://qbgaoo.github.io/r4ds/)
+-   [R for Data Science (2e)](https://r4ds.hadley.nz)
+-   [R packages](http://r-pkgs.org/)
